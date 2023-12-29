@@ -1,2 +1,2 @@
 # xeda-web
-Just a little website for the introduction / Instalation of the OS
+Just a little website for the introduction / Documentation on every Application we built.
